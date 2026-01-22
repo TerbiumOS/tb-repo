@@ -9,24 +9,13 @@
 			"icon": "https://raw.githubusercontent.com/TerbiumOS/tb-repo/refs/heads/main/assets/com.tb.ruffle/icon.svg",
 			"description": "Ruffle is a Flash Player emulator built in the Rust programming language.",
 			"developer": "Ruffle Team",
-			"pkg-name": "Ruffle",
-			"wmArgs": {
-				"title": {
-					"text": "Ruffle",
-					"weight": 600
-				},
-				"icon": "https://raw.githubusercontent.com/TerbiumOS/tb-repo/refs/heads/main/assets/com.tb.ruffle/icon.svg",
-				"src": "https://ruffle.rs/demo",
-				"size": {
-					"width": 600,
-					"height": 400
-				},
-				"single": true,
-				"resizable": true,
-				"proxy": true
-			},
+			"version": "1.0.0",
+			"pkg-name": "ruffle",
+			"pkg-download": "https://raw.githubusercontent.com/TerbiumOS/tb-repo/refs/heads/main/assets/ruffle.tapp.zip",
+			"size": "9.77 MB",
+			"license": "MIT & Apache 2.0",
 			"requirements": {
-				"os": "2.0.0-beta2"
+				"os": "2.1.0"
 			}
 		},
 		{
