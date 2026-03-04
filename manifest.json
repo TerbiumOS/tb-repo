@@ -119,10 +119,10 @@
 			"icon": "https://raw.githubusercontent.com/TerbiumOS/tb-repo/refs/heads/main/assets/com.tb.vscode/code.png",
 			"description": "Edit Code Files, Save Them and Commit them just like VIM or vscode!",
 			"developer": "Microsoft",
-			"version": "1.91.2",
+			"version": "1.91.3",
 			"pkg-name": "code",
 			"pkg-download": "https://raw.githubusercontent.com/TerbiumOS/tb-repo/refs/heads/main/assets/vscode.tapp.zip",
-			"size": "26.90 MB",
+			"size": "16.7 MB",
 			"scanned": "https://www.virustotal.com/gui/file/5ef368af12a0b43fa775a17fe40cd4c10ee8f18f56bd6a556965ea25bc9344c0?nocache=1",
 			"license": "Unlicensed",
 			"requirements": {
